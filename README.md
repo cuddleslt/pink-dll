@@ -2,6 +2,8 @@
 
 # 💗 Pink.dll (so-pink)
 
+</div>
+
 A **Seralyth plugin** that adds modules not yet made or not thought of.
 
 > ⚠️ I, lucky, do not take accountability for bans you gain from using pink.dll.
@@ -58,5 +60,3 @@ Gorilla Tag/
 ```
 
 4. Launch Gorilla Tag.
-
-</div>
